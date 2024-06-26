@@ -48,4 +48,4 @@ TypeScript (optional for better type safety)
 To deploy this project run
 
 
-Deployed Netlify Link : "https://react-chart-app.netlify.app/"
+Deployed Netlify Link : "https://react-chart-app1.netlify.app/"
